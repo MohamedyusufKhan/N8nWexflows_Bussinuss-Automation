@@ -1,0 +1,1 @@
+This repository contains a curated set of n8n business automation workflows designed to streamline and enhance digital operations for various use cases. These ready-to-use JSON workflows can be imported directly into n8n to accelerate productivity and automate repetitive tasks across domains like booking, data extraction, app registration, and more.
